@@ -17,3 +17,4 @@ uwu que genial !!!!
 Pa qué
 
 gegergergergre
+![git preview](https://www.linuxadictos.com/wp-content/uploads/git-gui.png)

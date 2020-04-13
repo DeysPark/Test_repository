@@ -27,5 +27,4 @@ gegergergergre
 
 | Tablas | tretert | ffsfsdf
 | dfdsfdsf | fgsgdgfdg | dssfdsfs
-
-yo mero
+<!-- Se elimino ese texto  -->
